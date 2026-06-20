@@ -14,18 +14,18 @@ EspressoPredict uses Machine Learning to forecast the daily number of coffee cup
 ## Background
 
 Running an Italian bar efficiently is notoriously tricky due to unpredictable, fluctuating crowds. 
-* **Over-staffing and Waste:** Preparing fresh pastries and sizing staff for a slow, rainy day wastes money. Conversely, being under-staffed during a surprise city festival ruins customer experience.
-* **Perishable Management:** Fresh milk and premium coffee beans must be managed carefully to preserve aroma and prevent waste.
-* **Personal Motivation:** Hospitality is a cornerstone of the Italian culture and economy. Empowering traditional bar owners with simple, low-cost AI tools bridges the gap between historical craftsmanship and modern data-driven management.
+ **Over-staffing and Waste:** Preparing fresh pastries and sizing staff for a slow, rainy day wastes money. Conversely, being under-staffed during a surprise city festival ruins customer experience.
+ **Perishable Management:** Fresh milk and premium coffee beans must be managed carefully to preserve aroma and prevent waste.
+ **Personal Motivation:** Hospitality is a cornerstone of the Italian culture and economy. Empowering traditional bar owners with simple, low-cost AI tools bridges the gap between historical craftsmanship and modern data-driven management.
 
 
 ## How is it used?
 
 The solution is integrated directly into the bar’s digital point-of-sale (POS) system or opened daily as a predictive dashboard by the bar manager. 
 
-* **The Process:** Every Sunday evening, the manager updates the local weekly outlook (upcoming concerts, soccer matches, and weather forecasts). 
-* **Context:** The system outputs exact target counts for upcoming days, helping the owner order the correct kilograms of coffee beans and schedule barista shifts accordingly.
-* **Users:** Traditional café owners, bar managers, and supply chain operators. 
+**The Process:** Every Sunday evening, the manager updates the local weekly outlook (upcoming concerts, soccer matches, and weather forecasts). 
+**Context:** The system outputs exact target counts for upcoming days, helping the owner order the correct kilograms of coffee beans and schedule barista shifts accordingly.
+**Users:** Traditional café owners, bar managers, and supply chain operators. 
 
 <img src="https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=600" width="400" alt="Espresso Machine">
 
